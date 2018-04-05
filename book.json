@@ -1,5 +1,7 @@
 {
     "gitbook": "3.2",
+    "title": "Patterns in Offline Data Processing",
+    "author": "Eric Conlon",
     "root": "source",
     "plugins": ["creativecommons"],
     "links": {
