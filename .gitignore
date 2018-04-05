@@ -1,4 +1,6 @@
 .vscode/
-gitbook-deps/node_modules/
 gitbook-deps/cache/
+gitbook-deps/node_modules/
+gitbook-deps/yarn-error.log
 output/
+source/node_modules/

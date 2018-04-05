@@ -1,3 +1,3 @@
-# Table of content
+# Contents
 
 * [First Chapter](chapter1.md)

@@ -1,3 +1,8 @@
-# My Awesome Book
+# Patterns in Offline Data Processing
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## Eric Conlon
+
+TODO add introduction
+
+{% creativecommons type="by-nc-nd" %}
+{% endcreativecommons %}

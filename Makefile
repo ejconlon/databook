@@ -6,10 +6,14 @@ native-deps:
 gitbook-deps:
 	cd gitbook-deps && yarn install && mkdir -p cache && GITBOOK_DIR=cache yarn run gitbook fetch 3.2
 
-.PHONY: gitbook-build
-gitbook-build:
+.PHONY: book-deps
+book-deps:
+	./scripts/gitbook.sh install
+
+.PHONY: build
+build:
 	./scripts/gitbook.sh build
 
-.PHONY: gitbook-serve
-gitbook-serve:
+.PHONY: serve
+serve:
 	./scripts/gitbook.sh serve --open

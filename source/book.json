@@ -1,0 +1,9 @@
+{
+    "gitbook": "3.2",
+    "plugins": ["creativecommons"],
+    "links": {
+        "sidebar": {
+            "@econlon": "https://twitter.com/econlon"
+        }
+    }
+}
