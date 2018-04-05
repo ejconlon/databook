@@ -2,5 +2,5 @@
 gitbook-deps/cache/
 gitbook-deps/node_modules/
 gitbook-deps/yarn-error.log
+node_modules/
 output/
-source/node_modules/

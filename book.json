@@ -1,5 +1,6 @@
 {
     "gitbook": "3.2",
+    "root": "source",
     "plugins": ["creativecommons"],
     "links": {
         "sidebar": {
