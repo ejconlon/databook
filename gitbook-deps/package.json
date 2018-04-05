@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-deps",
+  "version": "0.1.0",
+  "repository": "git@github.com:ejconlon/databook.git",
+  "author": "Eric Conlon <ejconlon@.com>",
+  "license": "UNLICENSED",
+  "private": true,
+
+  "devDependencies": {
+    "gitbook-cli": "~2.3"
+  }
+}
