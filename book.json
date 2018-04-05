@@ -7,7 +7,7 @@
     "plugins": ["creativecommons"],
     "links": {
         "sidebar": {
-            "@econlon": "https://twitter.com/econlon"
+            "Eric Conlon (@econlon)": "https://twitter.com/econlon"
         }
     }
 }

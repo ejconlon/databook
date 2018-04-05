@@ -1,9 +1,5 @@
 # Scratch
 
-
-
----
-
 Ideas for sections
 
 * Strongly typed incremental immutable statically-analyzable heterogeneous batch programs
