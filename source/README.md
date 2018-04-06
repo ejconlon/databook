@@ -1,4 +1,4 @@
-# Patterns in Offline Data Processing
+# Patterns in Batch Data Processing
 
 [Eric Conlon (@econlon)](https://twitter.com/econlon)
 
